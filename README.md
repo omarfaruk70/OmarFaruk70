@@ -8,7 +8,7 @@ Skills: BOOTSTRAP / JS / HTML / CSS
 
 - 🌱 I’m currently learning Javascript  
 - 👯 I’m looking to collaborate on Figma and Github 
-- 💬 Ask me about HTML CSS BOOTSTRAP GITHUB and Figma a 
+- 💬 Ask me about HTML CSS BOOTSTRAP GITHUB and FIGMA
 - 📫 How to reach me: farukfci70@gmail.com  
 - 😄 Pronouns: procoder 
 
