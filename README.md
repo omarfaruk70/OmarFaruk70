@@ -10,7 +10,7 @@ Skills: BOOTSTRAP / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Figma and Github 
 - 💬 Ask me about HTML CSS BOOTSTRAP GITHUB and FIGMA
 - 📫 How to reach me: farukfci70@gmail.com  
-- 😄 Pronouns: procoder 
+- 😄 Pronouns: Hungry coder
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omarfaruk70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Omar Faruk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/omarfaruk7672/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Omar Faruk)  
