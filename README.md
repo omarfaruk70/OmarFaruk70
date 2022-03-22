@@ -1,11 +1,10 @@
 # Hi there 👋, I am Omar Faruk 
 ### I am a professional web developer . Currently I am working on frontend development
 I love to learn new skills. Now I'm learning javascript. Full and fresh hand code is my power
-Skills: ####BOOTSTRAP/JS/HTML/CSS
-
 - 🌱 I’m currently learning Javascript  
 - 👯 I’m looking to collaborate on Figma and Github 
-- 💬 Ask me about HTML CSS BOOTSTRAP GITHUB and FIGMA
+- 💬 Ask me about 
+- ###HTML CSS BOOTSTRAP GITHUB and FIGMA
 - 📫 How to reach me: farukfci70@gmail.com  
 - 😄 Pronouns: Hungry coder
 
