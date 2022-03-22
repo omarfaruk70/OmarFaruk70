@@ -1,4 +1,4 @@
-![I am a professional web developer . Currently I am working on frontend development](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/270131274_1096264501184208_7044680341155288733_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Ts-yjyd4Cs4AX-zR57W&_nc_ht=scontent.fdac13-1.fna&oh=00_AT9th48LA_cEfoxhS8fk1O2q9KCZYhOkRdCEy7LnRPawAw&oe=6225118F)
+![I am a professional web developer . Currently I am working on frontend development]
 # Hi there 👋, I am Omar Faruk 
 ## I am a professional web developer . Currently I am working on frontend development
 
