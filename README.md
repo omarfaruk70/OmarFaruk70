@@ -1,4 +1,3 @@
-https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/251147718_1059841858159806_2380478679664346856_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=Q2FhCFPbNJ4AX-mHr-1&_nc_ht=scontent.fdac13-1.fna&oh=00_AT8FMn-ajf5NG2ghUIxq4C8nKqEJyDBMYddbwJlJsNgqnQ&oe=623EB42F
 # Hi there 👋, I am Omar Faruk 
 ### I am a professional web developer . Currently I am working on frontend development
 I love to learn new skills. Now I'm learning javascript. Full and fresh hand code is my power
