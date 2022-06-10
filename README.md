@@ -1,4 +1,4 @@
-# Hi there 👋, I am Omar Faruk 
+# Hi there 👋, This is Omar Faruk 
 ### Passionate FrontEnd web developer
 I love to learn new skills. Now I'm learning javascript. Full and fresh hand code is my power
 - 🌱 I’m currently learning Javascript  
