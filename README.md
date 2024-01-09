@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Faruk</h1>
+<h1 align="center">Hi 👋, Welcome there</h1>
 <p><img src='github banner.png'/></p>
 <h3 align="center">A passionate Frontend|MERN stack developer from Bangladesh</h3>
 
