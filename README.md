@@ -33,6 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk70&show_icons=true&locale=en" alt="omarfaruk70" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk70&" alt="omarfaruk70" /></p>
-
 
