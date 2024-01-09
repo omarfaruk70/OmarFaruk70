@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<p><img src='[https://](https://tenor.com/en-GB/view/developer-gif-23414225)'/></p>
+<p><img src='https://tenor.com/en-GB/view/developer-gif-23414225'/></p>
 <h3 align="center">A passionate Frontend|MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk70" alt="omarfaruk70" /></a> </p>
