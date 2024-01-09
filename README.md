@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, Welcome there</h1>
 <p><img src='github banner.png'/></p>
-<h3 align="center">A passionate Frontend|MERN stack developer from Bangladesh</h3>
+<h3 align="center">A Self_Motivated Frontend | MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk70" alt="omarfaruk70" /></a> </p>
 
 - 🔭 I’m currently working on **Foodian with admin,user layout payments, statistics and so on**
 
-- 🌱 I’m currently learning **Next js, Redux**
+- 🌱 I’m currently learning **Next js**
+- 🌱 MY Next 2 Months target to gain knowledge about **Redux Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarfaruk70](https://github.com/omarfaruk70)
 
