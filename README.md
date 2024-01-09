@@ -3,7 +3,7 @@
 <h3 align="center">A Self_Motivated Frontend | MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk70" alt="omarfaruk70" /></a> </p>
-<img align='right' alt="coding" width="400" src="https://tenor.com/en-GB/view/developer-gif-23414225" >
+<img align='right' alt="coding" width="400" src="[https://tenor.com/en-GB/view/developer-gif-23414225](https://tenor.com/en-GB/view/developer-gif-23414225)" >
 
 - 🔭 I’m currently working on **Foodian with admin,user layout payments, statistics and so on**
 
