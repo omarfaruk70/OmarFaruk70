@@ -4,7 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk70" alt="omarfaruk70" /></a> </p>
 
-- 🔭 I’m currently working on **Foodian with admin,user layout payments, statistics and so on**
+<div>
+  <div align='right'>
+    <img src="https://tenor.com/en-GB/view/developer-gif-23414225"/>
+  </div>
+  <div align='right'>
+    - 🔭 I’m currently working on **Foodian with admin,user layout payments, statistics and so on**
 
 - 🌱 I’m currently learning **Next js**
 - 🌱 MY Next 2 Months target to gain knowledge about **Redux Typescript**
@@ -16,6 +21,8 @@
 - 📫 How to reach me **farukfci70@gmail.com**
 
 - ⚡ Fun fact **console.log('Hungry to eat Bugs')**
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
