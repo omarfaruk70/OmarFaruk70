@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarfaruk70](https://github.com/omarfaruk70)
 
-- 💬 Ask me about **React, Javascript, Express, Node, Mongodb**
+- 💬 Ask me about **React, Javascript, Express, Node, Mongodb Firebase JWT**
 
 - 📫 How to reach me **farukfci70@gmail.com**
 
