@@ -32,4 +32,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk70&show_icons=true&locale=en" alt="omarfaruk70" /></p>
 
+//
+
+### 🚀Current Github Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarfaruk70&theme=shades-of-purple&card_width=870)](https://git.io/streak-stats)
+
+<div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarfaruk70&theme=algolia&width=435)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarfaruk70&theme=algolia&width=435)
+
+</div>
+
 
